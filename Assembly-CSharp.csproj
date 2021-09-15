@@ -67,6 +67,7 @@
     <Compile Include="Assets\scripts\ScoreData.cs" />
     <Compile Include="Assets\scripts\TerrainGeneratorController.cs" />
     <Compile Include="Assets\scripts\TerrainTemplateController.cs" />
+    <Compile Include="Assets\scripts\UIGameOverController.cs" />
     <Compile Include="Assets\scripts\UIScoreController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/tekad/Documents/2d-endless-runner/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

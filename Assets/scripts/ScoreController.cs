@@ -29,7 +29,7 @@ public class ScoreController : MonoBehaviour
 
         if (currentScore - lastScoreHighlight > scoreHighlightRange)
         {
-            
+            sound.PlayScoreHighlight();
             lastScoreHighlight += scoreHighlightRange;
         }
     }
